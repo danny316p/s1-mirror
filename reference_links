@@ -1,0 +1,13 @@
+
+Avoid sudo when using www:
+http://askubuntu.com/questions/46331/how-to-avoid-using-sudo-when-working-in-var-www
+
+Perl demo/enabling CGI (some of this was already done for me since I had a legacy Nagios install on here):
+http://www.techrepublic.com/blog/diy-it-guy/diy-enable-cgi-on-your-apache-server/
+
+How-to/demo for perl:
+http://www.tutorialspoint.com/perl/perl_cgi.htm
+
+Look here to look into adding SSL:
+https://help.ubuntu.com/lts/serverguide/httpd.html
+
