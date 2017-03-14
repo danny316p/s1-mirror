@@ -2,7 +2,7 @@
 use warnings;
 use strict;
 
-my @lcommands = ("uptime", "df -h", "ping 8.8.8.8 -c 3", "uname -a", "date");
+my @lcommands = ("uptime", "df -h", "ping 8.8.8.8 -c 3", "uname -a", "date", "free", "w");
 
 print "Content-type:text/html\r\n\r\n";
 print <<END;
